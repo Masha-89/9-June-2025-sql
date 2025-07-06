@@ -1,0 +1,6 @@
+SELECT TOP (1000) [student_id]
+      ,[subject_name]
+      ,[student_name]
+      ,[mark]
+      ,[teacher_name]
+  FROM [Class_activity].[dbo].[Student_data]
